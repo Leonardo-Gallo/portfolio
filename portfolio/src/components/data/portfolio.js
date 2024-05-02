@@ -8,7 +8,7 @@ export default [
     ,
     {
         title: 'Developer Portfolio',
-        imgUrl: '',
+        imgUrl: '/assets/portfoliotitle.png',
         stack: ['React','TailwindCSS','Vite'],
         link: 'https://github.com/Leonardo-Gallo/ChatGPT_Chatbot/tree/main'
     }
