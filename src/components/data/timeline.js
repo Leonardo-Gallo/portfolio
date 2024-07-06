@@ -1,9 +1,9 @@
 export default [
     {
         year:'Today',
-        title:'Freelance Software Developer',
+        title:'Software Engineering Student at Western Governers University',
         duration:'1 Month',
-        details:'In order to put my studies into practice and gain hands-on experience, I decided to try my hand at freelance work.'
+        details:'I\'ve decided to continue my education in order to open up more opportunities in the job market and to deepen my knowledge in software engineering.'
     },
     {
         year:'2024',
