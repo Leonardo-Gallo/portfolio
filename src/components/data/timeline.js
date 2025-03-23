@@ -9,7 +9,7 @@ export default [
         year:'2025',
         title:'Software Engineering Student at Western Governers University',
         duration:'5 Months',
-        details:'I\'ve decided to continue my education in order to open up more opportunities in the job market and to deepen my knowledge in software engineering. Due to life ended my education there for now.'
+        details:'I\'ve decided to continue my education in order to open up more opportunities in the job market and to deepen my knowledge in software engineering. Due to life, I ended my education there for now.'
     },
     {
         year:'2024',
